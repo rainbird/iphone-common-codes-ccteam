@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<setting writter = "xichen" date = "2011-12-20">
+	<group>
+		<basic_setting title="基本设置" detail_msg="中文联想，模糊音" value="" type="0">
+			<group>
+				<associated title="中文联想" detail_msg="" value="on" type="21"/>
+				<fuzzy title="模糊音设置" detail_msg="" value="on" type="10">
+					<group>
+						<zh_z title="zh = z" detail_msg="" value="off" type="11"/>
+						<ch_c title="ch = c" detail_msg="" value="off" type="12"/>
+						<sh_s title="sh = s" detail_msg="" value="off" type="13"/>
+						<ang_an title="ang = an" detail_msg="" value="off" type="14"/>
+						<eng_en title="eng = en" detail_msg="" value="off" type="15"/>
+						<ing_in title="ing = in" detail_msg="" value="off" type="16"/>
+						<l_n title="l = n" detail_msg="" value="off" type="17"/>
+						<f_h title="f = h" detail_msg="" value="off" type="18"/>
+						<r_l title="r = l" detail_msg="" value="off" type="19"/>
+						<k_g title="k = g" detail_msg="" value="off" type="20"/>
+					</group>
+				</fuzzy>
+			</group>
+		</basic_setting>
+		
+		<cc>xichen</cc>
+		
+		<handwriting title="手写设置" detail_msg="笔迹颜色，笔迹粗细，抬笔时间" value="" type="4">
+			<group>
+				<handwriting_open title="键盘手写" detail_msg="" value="on" type="4"/>
+			</group>
+			<group>
+				<waitting_time title="抬笔时间" detail_msg="" value="0.40" type="8"/>
+			</group>
+			<group>
+				<stroke_width title="笔画粗细" detail_msg="" value="8.27" type="5"/>
+			</group>
+			<group>
+				<stroke_color title="笔画颜色" detail_msg="" value="000076795918865.000000" type="6"/>
+			</group>
+		</handwriting>
+		
+		<dictionary title="词库管理" detail_msg="联系人导入，用户词库管理" value="" type="26">
+			<group>
+				<contact_import title="联系人导入" detail_msg="" value="on" type="27"/>
+				<user_dic_delete title="联系人删除" detail_msg="" value="on" type="36"/>
+			</group>
+		</dictionary>
+		
+	</group>
+	
+	<group writter = "xuchen">
+		<help title="使用帮助" detail_msg="" value="" type="34">
+			<group/>
+		</help>
+		<abount title="关于" detail_msg="版本信息，软件升级" value="on" type="35">
+			<group>
+				<about_ime title="关于讯飞输入法" detail_msg="" value="" type="0">
+					<group/>
+				</about_ime>
+				<update title="版本更新" detail_msg="" value="" type="0">
+					<group/>
+				</update>
+			</group>
+		</abount>
+	</group>
+	
+</setting>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/CCFCTests
+END
+CCFCTests-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/CCFCTests/CCFCTests-Info.plist
+END
+CCFCTests-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/CCFCTests/CCFCTests-Prefix.pch
+END
+CCFCTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/CCFCTests/CCFCTests.h
+END
+CCFCTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/CCFCTests/CCFCTests.m
+END
